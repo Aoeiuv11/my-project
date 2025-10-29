@@ -1,0 +1,157 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "public_game6",
+      "value": ""
+    },
+    {
+      "name": "public_game5",
+      "value": ""
+    },
+    {
+      "name": "home_categories",
+      "value": "分类"
+    },
+    {
+      "name": "home_top",
+      "value": "排行"
+    },
+    {
+      "name": "home_fast",
+      "value": "快应用"
+    },
+    {
+      "name": "home_flower",
+      "value": "小华花圃"
+    },
+    {
+      "name": "home_education",
+      "value": "教育中心"
+    },
+    {
+      "name": "public_game10",
+      "value": ""
+    },
+    {
+      "name": "public_game9",
+      "value": ""
+    },
+    {
+      "name": "public_game8",
+      "value": ""
+    },
+    {
+      "name": "public_game7",
+      "value": ""
+    },
+    {
+      "name": "public_game4",
+      "value": ""
+    },
+    {
+      "name": "public_game3",
+      "value": ""
+    },
+    {
+      "name": "public_game2",
+      "value": ""
+    },
+    {
+      "name": "public_game1",
+      "value": "王者荣耀"
+    },
+    {
+      "name": "public_app1",
+      "value": "微信"
+    },
+    {
+      "name": "public_app2",
+      "value": "微信"
+    },
+    {
+      "name": "public_app3",
+      "value": "微信"
+    },
+    {
+      "name": "public_app4",
+      "value": ""
+    },
+    {
+      "name": "public_app5",
+      "value": ""
+    },
+    {
+      "name": "public_app6",
+      "value": ""
+    },
+    {
+      "name": "public_app7",
+      "value": ""
+    },
+    {
+      "name": "public_app8",
+      "value": ""
+    },
+    {
+      "name": "public_app9",
+      "value": ""
+    },
+    {
+      "name": "public_app10",
+      "value": ""
+    },
+    {
+      "name": "tabBar1",
+      "value": "首页"
+    },
+    {
+      "name": "tabBar2",
+      "value": "应用"
+    },
+    {
+      "name": "tabBar3",
+      "value": "游戏"
+    },
+    {
+      "name": "tabBar4",
+      "value": "探索"
+    },
+
+    {
+      "name": "search",
+      "value": "搜索"
+    },
+    {
+      "name": "boutique_application",
+      "value": "精品应用"
+    },
+    {
+      "name": "boutique_game",
+      "value": "精品游戏"
+    },
+    {
+      "name": "install",
+      "value": "下载"
+    },
+    {
+      "name": "more",
+      "value": "更多"
+    },
+    {
+      "name": "tabBar5",
+      "value": "我的"
+    }
+  ]
+}
